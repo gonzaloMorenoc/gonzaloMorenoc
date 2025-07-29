@@ -5,9 +5,6 @@
 </p>
 
 <p align="center">
- <img src="https://img.shields.io/badge/QA%20Automation-informational?style=for-the-badge&logo=selenium&logoColor=white" />
- <img src="https://img.shields.io/badge/SDET-10%2B%20A%C3%B1os-blue?style=for-the-badge&logo=testinglibrary&logoColor=white" />
- <img src="https://visitor-badge.glitch.me/badge?page_id=gonzaloMorenoc" />
  <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-brightgreen?style=for-the-badge&logo=github" />
 </p>
 
