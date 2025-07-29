@@ -1,14 +1,5 @@
 # 👋 Hi, I'm Gonzalo 👨🏻‍💻
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=28&pause=1000&color=3F78C4&center=true&vCenter=true&width=900&lines=Hola%2C+soy+Gonzalo+Moreno+%F0%9F%8E%93;QA+Automation+Engineer+%7C+SDET+%7C+Software+Quality+Specialist;Apasionado+por+la+calidad+y+la+automatizaci%C3%B3n" alt="Typing SVG"/>
-</p>
-
-<p align="center">
- <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-brightgreen?style=for-the-badge&logo=github" />
-</p>
-
-
 I'm a QA Automation Engineer with over 10 years of experience making sure software works the way it should — from the first commit to production.
 
 I specialize in E2E and integration testing, continuous delivery pipelines, automation with modern tools, and close collaboration with development and product teams.
