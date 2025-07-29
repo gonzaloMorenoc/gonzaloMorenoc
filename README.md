@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 Hi, I'm Gonzalo 👨🏻‍💻
 
-<!--
-**gonzaloMorenoc/gonzaloMorenoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a QA Automation Engineer with over 10 years of experience making sure software works the way it should — from the first commit to production.
 
-Here are some ideas to get you started:
+I specialize in E2E and integration testing, continuous delivery pipelines, automation with modern tools, and close collaboration with development and product teams.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧰 Main Tech Stack
+
+- **Languages**: `Java`, `Python`, `JavaScript`
+- **Testing**: `Cucumber`, `Rest Assured`, `Karate`, `Robot Framework`, `Postman`, `Playwright`, `Selenium`, `Katalon`
+- **CI/CD**: `GitLab CI`, `Jenkins`, `Azure DevOps`
+- **Performance**: `JMeter`
+- **Security Testing**: `OWASP ZAP`
+- **Cloud**: `Azure`, `GCP`, `AWS`
+- **AI for Testing**: `Ollama`, `Transformers`, `TensorFlow`, `HugginFace`, `LLMs`
+
+---
+
+## 🧠 My QA Philosophy
+
+- **Automate what’s repetitive, validate what matters**
+- **Collaborate like a dev, think like a user**
+- **Quality is a shared responsibility**
+- **The most critical bugs aren’t always the most visible**
+
+---
+
+## 📣 What You’ll Find in My Repositories
+
+🔍 Testing frameworks, proof-of-concepts, AI-powered testing tools, CI/CD utilities, and real-world examples built for actual QA workflows.
+
+---
+
+## 📊 GitHub Stats
+
+![Gonzalo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gonzaloMorenoc&show_icons=true&theme=dracula)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gonzaloMorenoc&layout=compact&theme=dracula)
+
+---
+
+## 🤝 Let’s Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-GonzaloMoreno-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/gonzalomorenoc) 
+[![GitHub](https://img.shields.io/badge/GitHub-%40gonzaloMorenoc-black?logo=github&style=for-the-badge)](https://github.com/gonzaloMorenoc)
+
+---
