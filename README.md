@@ -47,5 +47,6 @@ I specialize in E2E and integration testing, continuous delivery pipelines, auto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-GonzaloMoreno-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/gonzalomorenoc) 
 [![GitHub](https://img.shields.io/badge/GitHub-%40gonzaloMorenoc-black?logo=github&style=for-the-badge)](https://github.com/gonzaloMorenoc)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gonzaloMorenoc&theme=dark&hide_border=true)
 
 ---
