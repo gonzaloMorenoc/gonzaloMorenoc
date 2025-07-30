@@ -35,7 +35,6 @@ I specialize in E2E and integration testing, continuous delivery pipelines, auto
 
 ## 📊 GitHub Stats
 
-![Gonzalo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gonzaloMorenoc&show_icons=true&theme=dracula)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gonzaloMorenoc&layout=compact&theme=dracula)
 
 ---
