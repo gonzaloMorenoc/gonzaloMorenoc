@@ -14,7 +14,7 @@ I specialize in E2E and integration testing, continuous delivery pipelines, auto
 - **Performance**: `JMeter`
 - **Security Testing**: `OWASP ZAP`
 - **Cloud**: `Azure`, `GCP`, `AWS`
-- **AI for Testing**: `Ollama`, `Transformers`, `TensorFlow`, `HugginFace`, `LLMs`
+- **AI for Testing**: `Ollama`, `Transformers`, `TensorFlow`, `HugginFace`, `LLMs`, `RAG`, `ChromaDB`
 
 ---
 
