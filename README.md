@@ -7,13 +7,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gonzalomorenoc">
-    <img src="https://img.shields.io/badge/LinkedIn-gonzalomorenoc-blue?logo=linkedin&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/LinkedIn-gonzalomorenoc-blue?logo=linkedin&style=flat-square" />
   </a>
   <a href="https://gonzalomorenoc.es">
-    <img src="https://img.shields.io/badge/Portfolio-gonzalomorenoc.es-0A0A0A?logo=vercel&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Portfolio-gonzalomorenoc.es-0A0A0A?logo=vercel&style=flat-square" />
   </a>
   <a href="mailto:gonzalomorenocominero@gmail.com">
-    <img src="https://img.shields.io/badge/Email-contact-red?logo=gmail&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Email-contact-red?logo=gmail&style=flat-square" />
   </a>
 </p>
 
@@ -69,7 +69,6 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
 ![Allure](https://img.shields.io/badge/Allure%20Reports-FF6B35?style=flat-square)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
 
@@ -83,8 +82,6 @@
 **Infrastructure & Cloud**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
@@ -107,6 +104,32 @@ Testing frameworks, proof-of-concepts, AI-powered testing tools, CI/CD utilities
 
 ---
 
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/gonzaloMorenoc/ai-testing-lab">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gonzaloMorenoc&repo=ai-testing-lab&theme=dark&hide_border=true" />
+  </a>
+  <a href="https://github.com/gonzaloMorenoc/SmartErrorDebugger">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gonzaloMorenoc&repo=SmartErrorDebugger&theme=dark&hide_border=true" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/gonzaloMorenoc/smartVisionQA">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gonzaloMorenoc&repo=smartVisionQA&theme=dark&hide_border=true" />
+  </a>
+  <a href="https://github.com/gonzaloMorenoc/IstqbExaminator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gonzaloMorenoc&repo=IstqbExaminator&theme=dark&hide_border=true" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/gonzaloMorenoc/llm-eval-lab">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gonzaloMorenoc&repo=llm-eval-lab&theme=dark&hide_border=true" />
+  </a>
+</p>
+
+---
+
 ## 📊 Stats
 
 <p align="center">
@@ -115,5 +138,5 @@ Testing frameworks, proof-of-concepts, AI-powered testing tools, CI/CD utilities
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gonzaloMorenoc&theme=dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=gonzaloMorenoc&theme=dark&hide_border=true" />
 </p>
