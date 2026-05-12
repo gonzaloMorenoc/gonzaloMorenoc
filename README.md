@@ -106,37 +106,23 @@ Testing frameworks, proof-of-concepts, AI-powered testing tools, CI/CD utilities
 
 ## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/gonzaloMorenoc/ai-testing-lab">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gonzaloMorenoc&repo=ai-testing-lab&theme=dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/gonzaloMorenoc/SmartErrorDebugger">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gonzaloMorenoc&repo=SmartErrorDebugger&theme=dark&hide_border=true" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/gonzaloMorenoc/smartVisionQA">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gonzaloMorenoc&repo=smartVisionQA&theme=dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/gonzaloMorenoc/IstqbExaminator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gonzaloMorenoc&repo=IstqbExaminator&theme=dark&hide_border=true" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/gonzaloMorenoc/llm-eval-lab">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gonzaloMorenoc&repo=llm-eval-lab&theme=dark&hide_border=true" />
-  </a>
-</p>
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **[ai-testing-lab](https://github.com/gonzaloMorenoc/ai-testing-lab)** | pytest lab for testing LLMs: RAG eval, red teaming, guardrails, drift monitoring — 14 modules, 382 tests, zero API calls needed | `Python` `pytest` `RAG` `LLM-Eval` |
+| **[SmartErrorDebugger](https://github.com/gonzaloMorenoc/SmartErrorDebugger)** | Advanced log analyzer for QA teams using RAG to match new errors against historical incidents and technical docs, with local AI-powered solutions | `Python` `RAG` `Ollama` `ChromaDB` |
+| **[smartVisionQA](https://github.com/gonzaloMorenoc/smartVisionQA)** | Proof-of-concept for automated visual testing using local vision models via Ollama | `Python` `Ollama` `Vision-LLM` |
+| **[IstqbExaminator](https://github.com/gonzaloMorenoc/IstqbExaminator)** | Interactive (unofficial) study tool to prepare the ISTQB® Certified Tester Generative AI Testing (CT-GenAI) certification | `JavaScript` `Web` `ISTQB` |
+| **[llm-eval-lab](https://github.com/gonzaloMorenoc/llm-eval-lab)** | Testing framework for evaluating LLM chatbot models | `Python` `LLM-Eval` |
 
 ---
 
 ## 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gonzaloMorenoc&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gonzaloMorenoc&layout=compact&count_private=true&theme=dark&hide_border=true" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=gonzaloMorenoc&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=gonzaloMorenoc&theme=dark&hide_border=true" />
+  <img src="https://img.shields.io/github/followers/gonzaloMorenoc?style=flat-square&label=Followers&color=blue" />
+  <img src="https://img.shields.io/github/stars/gonzaloMorenoc?style=flat-square&label=Total%20Stars&color=yellow" />
 </p>
