@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Gonzalo Moreno 👋</h1>
-<h3 align="center">Senior QA Automation Engineer & QA Architect · 📖 Author · Madrid, Spain</h3>
+<h3 align="center">Senior QA Automation Engineer & QA Architect</h3>
 
 <p align="center">
   10+ years building robust test automation frameworks, AI-powered testing tools, and scalable QA architectures across financial services, telecom, retail, and cybersecurity sectors.
