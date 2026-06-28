@@ -144,7 +144,7 @@ Testing frameworks, proof-of-concepts, AI-powered testing tools, CI/CD utilities
 | Project | Description | Stack |
 |---------|-------------|-------|
 | **[ai-testing-lab](https://github.com/gonzaloMorenoc/ai-testing-lab)** | pytest lab for testing LLMs: RAG eval, red teaming, guardrails, drift monitoring — 14 modules, 382 tests, zero API calls needed | `Python` `pytest` `RAG` `LLM-Eval` |
-| **[SmartErrorDebugger](https://github.com/gonzaloMorenoc/SmartErrorDebugger)** | Advanced log analyzer for QA teams using RAG to match new errors against historical incidents and technical docs, with local AI-powered solutions | `Python` `RAG` `Ollama` `ChromaDB` |
+| **[Mnemo](https://github.com/gonzaloMorenoc/Mnemo)** | Advanced log analyzer for QA teams using RAG to match new errors against historical incidents and technical docs, with local AI-powered solutions via Ollama | `Python` `RAG` `LangChain` `Ollama` `ChromaDB` |
 | **[smartVisionQA](https://github.com/gonzaloMorenoc/smartVisionQA)** | Proof-of-concept for automated visual testing using local vision models via Ollama | `Python` `Ollama` `Vision-LLM` |
 | **[IstqbExaminator](https://github.com/gonzaloMorenoc/IstqbExaminator)** | Interactive (unofficial) study tool to prepare the ISTQB® Certified Tester Generative AI Testing (CT-GenAI) certification | `JavaScript` `Web` `ISTQB` |
 | **[llm-eval-lab](https://github.com/gonzaloMorenoc/llm-eval-lab)** | Testing framework for evaluating LLM chatbot models | `Python` `LLM-Eval` |
