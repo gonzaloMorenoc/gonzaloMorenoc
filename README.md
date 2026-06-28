@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Gonzalo Moreno 👋</h1>
-<h3 align="center">Senior QA Automation Engineer & QA Architect · Madrid, Spain</h3>
+<h3 align="center">Senior QA Automation Engineer & QA Architect · 📖 Author · Madrid, Spain</h3>
 
 <p align="center">
   10+ years building robust test automation frameworks, AI-powered testing tools, and scalable QA architectures across financial services, telecom, retail, and cybersecurity sectors.
@@ -12,10 +12,45 @@
   <a href="https://gonzalomorenoc.es">
     <img src="https://img.shields.io/badge/Portfolio-gonzalomorenoc.es-0A0A0A?logo=vercel&style=flat-square" />
   </a>
+  <a href="https://www.amazon.es/dp/B0H6SQT2VV">
+    <img src="https://img.shields.io/badge/My%20Book-Amazon-FF9900?logo=amazon&logoColor=white&style=flat-square" />
+  </a>
   <a href="mailto:gonzalomorenocominero@gmail.com">
     <img src="https://img.shields.io/badge/Email-contact-red?logo=gmail&style=flat-square" />
   </a>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gonzaloMorenoc&style=flat-square&color=blue&label=Profile+Views" />
+</p>
+
+---
+
+## 📖 My Book — Now on Amazon
+
+<table>
+  <tr>
+    <td width="32%" align="center">
+      <a href="https://www.amazon.es/dp/B0H6SQT2VV">
+        <img src="https://m.media-amazon.com/images/P/B0H6SQT2VV.01._SCLZZZZZZZ_.jpg" alt="Manual de QA para Sistemas de Inteligencia Artificial" width="210" />
+      </a>
+    </td>
+    <td width="68%">
+      <h3>Manual de QA para Sistemas de Inteligencia Artificial</h3>
+      <b>LLMs · RAG · Chatbots · Agentes</b>
+      <p>
+        A hands-on guide to testing modern AI systems — LLM evaluation, RAG pipelines,
+        chatbot quality, red teaming, guardrails, drift monitoring, and AI agents.
+        Written for QA engineers, SDETs, and developers who need to ship reliable AI.
+        <br /><br />
+        <i>🇪🇸 Available in Spanish · Paperback on Amazon</i>
+      </p>
+      <a href="https://www.amazon.es/dp/B0H6SQT2VV">
+        <img src="https://img.shields.io/badge/Get%20it%20on-Amazon-FF9900?style=for-the-badge&logo=amazon&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -125,4 +160,22 @@ Testing frameworks, proof-of-concepts, AI-powered testing tools, CI/CD utilities
 <p align="center">
   <img src="https://img.shields.io/github/followers/gonzaloMorenoc?style=flat-square&label=Followers&color=blue" />
   <img src="https://img.shields.io/github/stars/gonzaloMorenoc?style=flat-square&label=Total%20Stars&color=yellow" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+I write about QA, test automation, and testing AI systems. If my projects or my book are useful to you, a ⭐ on the repos and a **follow** here go a long way.
+
+<p align="center">
+  <a href="https://www.amazon.es/dp/B0H6SQT2VV">
+    <img src="https://img.shields.io/badge/📖%20Read%20my%20book-Amazon-FF9900?style=for-the-badge&logo=amazon&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/gonzalomorenoc">
+    <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://gonzalomorenoc.es">
+    <img src="https://img.shields.io/badge/Visit-Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
