@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Portfolio-gonzalomorenoc.es-0A0A0A?logo=vercel&style=flat-square" />
   </a>
   <a href="https://www.amazon.es/dp/B0H6SQT2VV">
-    <img src="https://img.shields.io/badge/My%20Book-Amazon-FF9900?logo=amazon&logoColor=white&style=flat-square" />
+    <img src="https://img.shields.io/badge/Books-Amazon-FF9900?logo=amazon&logoColor=white&style=flat-square" />
   </a>
   <a href="mailto:gonzalomorenocominero@gmail.com">
     <img src="https://img.shields.io/badge/Email-contact-red?logo=gmail&style=flat-square" />
@@ -23,34 +23,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gonzaloMorenoc&style=flat-square&color=blue&label=Profile+Views" />
 </p>
-
----
-
-## 📖 My Book — Now on Amazon
-
-<table>
-  <tr>
-    <td width="32%" align="center">
-      <a href="https://www.amazon.es/dp/B0H6SQT2VV">
-        <img src="https://m.media-amazon.com/images/P/B0H6SQT2VV.01._SCLZZZZZZZ_.jpg" alt="Manual de QA para Sistemas de Inteligencia Artificial" width="210" />
-      </a>
-    </td>
-    <td width="68%">
-      <h3>Manual de QA para Sistemas de Inteligencia Artificial</h3>
-      <b>LLMs · RAG · Chatbots · Agentes</b>
-      <p>
-        A hands-on guide to testing modern AI systems — LLM evaluation, RAG pipelines,
-        chatbot quality, red teaming, guardrails, drift monitoring, and AI agents.
-        Written for QA engineers, SDETs, and developers who need to ship reliable AI.
-        <br /><br />
-        <i>🇪🇸 Available in Spanish · Paperback on Amazon</i>
-      </p>
-      <a href="https://www.amazon.es/dp/B0H6SQT2VV">
-        <img src="https://img.shields.io/badge/Get%20it%20on-Amazon-FF9900?style=for-the-badge&logo=amazon&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-</table>
 
 ---
 
@@ -144,11 +116,51 @@ Testing frameworks, proof-of-concepts, AI-powered testing tools, CI/CD utilities
 | Project | Description | Stack |
 |---------|-------------|-------|
 | **[GuardiaCore · equiguardia.com](https://www.equiguardia.com)** | Production healthtech PWA for managing medical on-call shifts in Spanish hospitals — **live in 10 hospitals with 100+ doctors**. Automatic assignment, weighted fairness, algorithmic transparency, and a shift-swap marketplace | `PWA` `JavaScript` `Supabase` `HealthTech` |
+| **[VortexArenaAI · vortexarenaai.com](https://vortexarenaai.com)** | Gamified platform to learn AI as an RPG — 58 missions across 4 worlds, an AI Coach that grades free-text answers, XP and levels, global ranking, and verifiable certificates. Server-side scoring so answers never leak to the client | `React` `TypeScript` `Supabase` `LLM` `PWA` |
 | **[ai-testing-lab](https://github.com/gonzaloMorenoc/ai-testing-lab)** | pytest lab for testing LLMs: RAG eval, red teaming, guardrails, drift monitoring — 14 modules, 382 tests, zero API calls needed | `Python` `pytest` `RAG` `LLM-Eval` |
 | **[Mnemo](https://github.com/gonzaloMorenoc/Mnemo)** | QA Continuity AI — turns scattered project knowledge (rules, flows, bugs, tests, CI) into test plans, Playwright automation, and searchable QA memory. 100% local LLMs, zero API cost | `Python` `FastAPI` `RAG` `Ollama` `Next.js` |
 | **[smartVisionQA](https://github.com/gonzaloMorenoc/smartVisionQA)** | Proof-of-concept for automated visual testing using local vision models via Ollama | `Python` `Ollama` `Vision-LLM` |
 | **[IstqbExaminator](https://github.com/gonzaloMorenoc/IstqbExaminator)** | Interactive (unofficial) study tool to prepare the ISTQB® Certified Tester Generative AI Testing (CT-GenAI) certification | `JavaScript` `Web` `ISTQB` |
 | **[llm-eval-lab](https://github.com/gonzaloMorenoc/llm-eval-lab)** | Testing framework for evaluating LLM chatbot models | `Python` `LLM-Eval` |
+
+---
+
+## 📚 Books
+
+<sub>Beyond code — I also write about testing and making sense of AI systems.</sub>
+
+<table>
+  <tr>
+    <td width="15%" align="center" valign="top">
+      <a href="https://www.amazon.es/dp/B0H6SQT2VV">
+        <img src="https://m.media-amazon.com/images/P/B0H6SQT2VV.01._SCLZZZZZZZ_.jpg" alt="Manual de QA para Sistemas de Inteligencia Artificial" width="110" />
+      </a>
+    </td>
+    <td width="35%" valign="top">
+      <b>Manual de QA para Sistemas de Inteligencia Artificial</b><br />
+      <sub>Testing de LLMs, RAG, chatbots, red teaming, guardrails y agentes. Para QA engineers, SDETs y devs que necesitan enviar IA fiable.</sub>
+      <br /><br />
+      <a href="https://www.amazon.es/dp/B0H6SQT2VV">
+        <img src="https://img.shields.io/badge/Amazon-FF9900?logo=amazon&logoColor=white&style=flat-square" alt="Ver en Amazon" />
+      </a>
+      <img src="https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%B8%20ES-Paperback-lightgrey?style=flat-square" alt="Español · Paperback" />
+    </td>
+    <td width="15%" align="center" valign="top">
+      <a href="https://www.amazon.es/dp/B0H7XWBQX3">
+        <img src="https://m.media-amazon.com/images/P/B0H7XWBQX3.01._SCLZZZZZZZ_.jpg" alt="Suena verdadero" width="110" />
+      </a>
+    </td>
+    <td width="35%" valign="top">
+      <b>Suena verdadero</b><br />
+      <sub>Cómo funciona la IA que ya usas —ChatGPT, Claude, Gemini y los agentes— y cuándo no deberías creerla. Divulgación para entender la IA sin postureo.</sub>
+      <br /><br />
+      <a href="https://www.amazon.es/dp/B0H7XWBQX3">
+        <img src="https://img.shields.io/badge/Amazon-FF9900?logo=amazon&logoColor=white&style=flat-square" alt="Ver en Amazon" />
+      </a>
+      <img src="https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%B8%20ES-Paperback-lightgrey?style=flat-square" alt="Español · Paperback" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -167,11 +179,11 @@ Testing frameworks, proof-of-concepts, AI-powered testing tools, CI/CD utilities
 
 ## 🤝 Let's Connect
 
-I write about QA, test automation, and testing AI systems. If my projects or my book are useful to you, a ⭐ on the repos and a **follow** here go a long way.
+I write about QA, test automation, and testing AI systems. If my projects or my books are useful to you, a ⭐ on the repos and a **follow** here go a long way.
 
 <p align="center">
   <a href="https://www.amazon.es/dp/B0H6SQT2VV">
-    <img src="https://img.shields.io/badge/📖%20Read%20my%20book-Amazon-FF9900?style=for-the-badge&logo=amazon&logoColor=white" />
+    <img src="https://img.shields.io/badge/📚%20Read%20my%20books-Amazon-FF9900?style=for-the-badge&logo=amazon&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/gonzalomorenoc">
     <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
