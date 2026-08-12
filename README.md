@@ -20,10 +20,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gonzaloMorenoc&style=flat-square&color=blue&label=Profile+Views" alt="Profile views" />
-</p>
-
 ---
 
 ## 🏅 Certifications
